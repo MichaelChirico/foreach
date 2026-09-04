@@ -26,7 +26,8 @@ Suggests:
     doParallel,
     testthat,
     knitr,
-    rmarkdown
+    rmarkdown,
+    parallel
 VignetteBuilder: knitr
 Roxygen: list(markdown=TRUE)
 RoxygenNote: 7.1.1
